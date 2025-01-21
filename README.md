@@ -14,7 +14,6 @@
 
 
 <div align="center">
-  <a href="https://github.com/Nikoly-Ap">
   <img height="180em" src="https://https://github-readme-stats.vercel.app/api?username=Nikoly-Ap&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikoly-Ap&show_icons=true&theme=radical"/>
 </div>
