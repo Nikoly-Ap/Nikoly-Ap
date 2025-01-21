@@ -14,8 +14,9 @@
 
 
 <div align="center">
-  <img height="180em" src="https://https://github-readme-stats.vercel.app/api?username=Nikoly-Ap&show_icons=true&theme=radical"/>
+  <a href="https://github.com/Nikoly-Ap">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikoly-Ap&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoly-Ap&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ##
