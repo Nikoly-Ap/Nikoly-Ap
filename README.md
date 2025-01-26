@@ -4,12 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nikoly-Ap&label=Profile%20views&color=0e75b6&style=flat" alt="Nikoly-Ap" /> </p>
 
 
-- 🔭 I’m currently working on a very small project to test my skills in Unity.
-- 🌱 I’m currently learning **Unity, JavaScript and TypeScript**
-- 👯 I’m looking to collaborate on **game and software development**
-- 🤝 I’m looking for help with **game and software development**
-- 💬 Ask me about **Unity, Js and C#**
-- 📫 How to reach me **snikoly19@gmail.com**
+- 🔭 I’m currently working on a small project to develop my digital drawing and programming skills.
+- 🌱 I’m currently learning **Unity, JavaScript and TypeScript**.
+- 👯 I’m looking to collaborate on **game and software development**.
+- 🤝 I’m looking for help with **game and software development**.
+- 💬 Ask me about **Unity, Js and C#**.
+- 📫 How to reach me **snikoly19@gmail.com**.
+- ⚡ Fun fact: I'm a very creative person and I love handicrafts.
 <div align="center">
 
 
