@@ -22,6 +22,8 @@
 
 ##
 
+![snake gif](https://github.com/Nikoly-Ap/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg)
+
 <div> 
   <a href="https://www.linkedin.com/in/Nikoly-Ap/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
